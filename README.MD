@@ -29,8 +29,8 @@ seguem abaixo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://claude.ia/) 
-- [Dalle-e](via microsoft copilot)
+- [Claude IA](https://claude.ia/) 
+- [Dalle-e- via microsoft copilot](https://copilot.microsoft.com/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
