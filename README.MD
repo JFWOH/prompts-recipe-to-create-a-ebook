@@ -20,7 +20,7 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório fork do instrutor para projeto na plataforma da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
@@ -29,8 +29,8 @@ seguem abaixo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [ChatGPT](https://claude.ia/) 
+- [Dalle-e](via microsoft copilot)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -40,21 +40,26 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um projeto de um  livro de IA com contendo 5 pequenos contos direcionados para o publico infantil. Desenvolva o titulo, o nome de cada conto.                                                       |
+| conteúdo |  Escreva sugestões de texto para cada um dos pequenos contos
 
 
-Midjourney：
+|
+
+Dalle-e：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| ilustraçoes |Floating digital books with glowing pages, pixelated bookmarks trailing behind like comets, minimalist children's book style :: soft blue and gold palette :: magical library atmosphere :: simple background 
+| ilustraçoes |Digital flower growing alongside real flower, pixel particles and nature elements intertwined :: soft gradient background :: children's illustration style :: magical garden atmosphere
+| ilustraçoes |Digital constellation forming the shape of a teacher's silhouette, stars connecting like dots :: deep blue background :: children's book style :: magical sparkles 
+| ilustraçoes |Small robot holding a glowing polaroid photo, heart-shaped screen displaying gentle emotions :: hospital corridor in soft focus background :: warm pastel colors :: children's illustration stylee
+| ilustraçoes |8-year-old girl with curious eyes and gentle smile sitting cross-legged on a pastel colored cushion :: surrounded by floating holographic displays and kawaii robots :: modern library interior with soft lighting :: ethereal blue glow and magical sparkles :: whimsical and dreamy atmosphere :: children's book illustration style, digital art
 
-## ✨ Features
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
 
+- Conteúdo gerado via Claude IA
+- Imagens geradas via Dall-e
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
@@ -89,4 +94,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+Jeferson Wohanka
